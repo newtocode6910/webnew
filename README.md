@@ -1,2 +1,0 @@
-# webnew
-web sơ khai
